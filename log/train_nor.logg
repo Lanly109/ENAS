@@ -1,0 +1,500 @@
+  10. mean training reward:   0.49 mean loss: -5.7228
+  20. mean training reward:   0.50 mean loss: -5.6976
+  30. mean training reward:   0.50 mean loss: -5.6659
+  40. mean training reward:   0.51 mean loss: -5.7365
+  50. mean training reward:   0.49 mean loss: -5.4466
+  60. mean training reward:   0.49 mean loss: -5.5139
+  70. mean training reward:   0.51 mean loss: -5.7806
+  80. mean training reward:   0.50 mean loss: -5.6273
+  90. mean training reward:   0.54 mean loss: -6.1693
+ 100. mean training reward:   0.50 mean loss: -5.5863
+ 110. mean training reward:   0.52 mean loss: -5.9295
+ 120. mean training reward:   0.52 mean loss: -5.8877
+ 130. mean training reward:   0.55 mean loss: -6.2287
+ 140. mean training reward:   0.55 mean loss: -6.2666
+ 150. mean training reward:   0.53 mean loss: -5.9653
+ 160. mean training reward:   0.53 mean loss: -5.9599
+ 170. mean training reward:   0.52 mean loss: -5.7743
+ 180. mean training reward:   0.52 mean loss: -5.8723
+ 190. mean training reward:   0.58 mean loss: -6.5731
+ 200. mean training reward:   0.56 mean loss: -6.3210
+ 210. mean training reward:   0.58 mean loss: -6.5573
+ 220. mean training reward:   0.52 mean loss: -5.9712
+ 230. mean training reward:   0.55 mean loss: -6.1866
+ 240. mean training reward:   0.55 mean loss: -6.3053
+ 250. mean training reward:   0.60 mean loss: -6.8045
+ 260. mean training reward:   0.63 mean loss: -7.1175
+ 270. mean training reward:   0.63 mean loss: -7.2161
+ 280. mean training reward:   0.64 mean loss: -7.3134
+ 290. mean training reward:   0.60 mean loss: -6.8441
+ 300. mean training reward:   0.60 mean loss: -6.8862
+ 310. mean training reward:   0.56 mean loss: -6.3678
+ 320. mean training reward:   0.60 mean loss: -6.9060
+ 330. mean training reward:   0.64 mean loss: -7.3908
+ 340. mean training reward:   0.64 mean loss: -7.4004
+ 350. mean training reward:   0.65 mean loss: -7.3441
+ 360. mean training reward:   0.66 mean loss: -7.4641
+ 370. mean training reward:   0.63 mean loss: -7.1679
+ 380. mean training reward:   0.62 mean loss: -7.1134
+ 390. mean training reward:   0.59 mean loss: -6.6344
+ 400. mean training reward:   0.60 mean loss: -6.9064
+ 410. mean training reward:   0.62 mean loss: -7.1428
+ 420. mean training reward:   0.62 mean loss: -7.0964
+ 430. mean training reward:   0.60 mean loss: -6.8291
+ 440. mean training reward:   0.63 mean loss: -7.1447
+ 450. mean training reward:   0.58 mean loss: -6.5412
+ 460. mean training reward:   0.59 mean loss: -6.7363
+ 470. mean training reward:   0.62 mean loss: -7.0819
+ 480. mean training reward:   0.64 mean loss: -7.4007
+ 490. mean training reward:   0.63 mean loss: -7.2779
+ 500. mean training reward:   0.64 mean loss: -7.3673
+ 510. mean training reward:   0.66 mean loss: -7.6315
+ 520. mean training reward:   0.69 mean loss: -7.9732
+ 530. mean training reward:   0.65 mean loss: -7.4201
+ 540. mean training reward:   0.65 mean loss: -7.5362
+ 550. mean training reward:   0.68 mean loss: -7.8030
+ 560. mean training reward:   0.63 mean loss: -7.1067
+ 570. mean training reward:   0.64 mean loss: -7.3948
+ 580. mean training reward:   0.67 mean loss: -7.7474
+ 590. mean training reward:   0.63 mean loss: -7.2282
+ 600. mean training reward:   0.71 mean loss: -8.1644
+ 610. mean training reward:   0.71 mean loss: -8.1709
+ 620. mean training reward:   0.67 mean loss: -7.7327
+ 630. mean training reward:   0.72 mean loss: -8.3780
+ 640. mean training reward:   0.74 mean loss: -8.6073
+ 650. mean training reward:   0.68 mean loss: -7.7942
+ 660. mean training reward:   0.68 mean loss: -7.8696
+ 670. mean training reward:   0.71 mean loss: -8.2172
+ 680. mean training reward:   0.73 mean loss: -8.5099
+ 690. mean training reward:   0.74 mean loss: -8.5226
+ 700. mean training reward:   0.73 mean loss: -8.3715
+ 710. mean training reward:   0.72 mean loss: -8.2467
+ 720. mean training reward:   0.70 mean loss: -8.0757
+ 730. mean training reward:   0.72 mean loss: -8.2809
+ 740. mean training reward:   0.65 mean loss: -7.4168
+ 750. mean training reward:   0.64 mean loss: -7.3793
+ 760. mean training reward:   0.63 mean loss: -7.2622
+ 770. mean training reward:   0.60 mean loss: -6.8913
+ 780. mean training reward:   0.63 mean loss: -7.1903
+ 790. mean training reward:   0.67 mean loss: -7.7718
+ 800. mean training reward:   0.73 mean loss: -8.4238
+ 810. mean training reward:   0.72 mean loss: -8.4182
+ 820. mean training reward:   0.64 mean loss: -7.2329
+ 830. mean training reward:   0.64 mean loss: -7.4242
+ 840. mean training reward:   0.69 mean loss: -7.8807
+ 850. mean training reward:   0.67 mean loss: -7.5929
+ 860. mean training reward:   0.70 mean loss: -8.0437
+ 870. mean training reward:   0.68 mean loss: -7.7181
+ 880. mean training reward:   0.65 mean loss: -7.4862
+ 890. mean training reward:   0.62 mean loss: -7.1014
+ 900. mean training reward:   0.66 mean loss: -7.5482
+ 910. mean training reward:   0.74 mean loss: -8.4863
+ 920. mean training reward:   0.70 mean loss: -8.0948
+ 930. mean training reward:   0.68 mean loss: -7.9224
+ 940. mean training reward:   0.75 mean loss: -8.6266
+ 950. mean training reward:   0.77 mean loss: -8.8956
+ 960. mean training reward:   0.77 mean loss: -8.8777
+ 970. mean training reward:   0.71 mean loss: -8.2111
+ 980. mean training reward:   0.74 mean loss: -8.5542
+ 990. mean training reward:   0.73 mean loss: -8.3870
+1000. mean training reward:   0.72 mean loss: -8.1959
+1010. mean training reward:   0.73 mean loss: -8.4774
+1020. mean training reward:   0.72 mean loss: -8.3278
+1030. mean training reward:   0.75 mean loss: -8.6569
+1040. mean training reward:   0.76 mean loss: -8.8487
+1050. mean training reward:   0.77 mean loss: -8.9431
+1060. mean training reward:   0.69 mean loss: -7.9865
+1070. mean training reward:   0.67 mean loss: -7.7822
+1080. mean training reward:   0.65 mean loss: -7.5302
+1090. mean training reward:   0.71 mean loss: -8.1392
+1100. mean training reward:   0.69 mean loss: -7.8743
+1110. mean training reward:   0.67 mean loss: -7.7045
+1120. mean training reward:   0.69 mean loss: -7.9933
+1130. mean training reward:   0.67 mean loss: -7.6709
+1140. mean training reward:   0.70 mean loss: -8.1357
+1150. mean training reward:   0.73 mean loss: -8.4431
+1160. mean training reward:   0.72 mean loss: -8.3768
+1170. mean training reward:   0.73 mean loss: -8.4787
+1180. mean training reward:   0.76 mean loss: -8.6868
+1190. mean training reward:   0.77 mean loss: -8.9712
+1200. mean training reward:   0.73 mean loss: -8.4531
+1210. mean training reward:   0.78 mean loss: -8.9986
+1220. mean training reward:   0.78 mean loss: -9.1109
+1230. mean training reward:   0.76 mean loss: -8.9384
+1240. mean training reward:   0.74 mean loss: -8.5955
+1250. mean training reward:   0.77 mean loss: -8.9198
+1260. mean training reward:   0.78 mean loss: -9.0039
+1270. mean training reward:   0.72 mean loss: -8.3853
+1280. mean training reward:   0.76 mean loss: -8.7845
+1290. mean training reward:   0.79 mean loss: -9.1618
+1300. mean training reward:   0.74 mean loss: -8.6359
+1310. mean training reward:   0.79 mean loss: -9.1566
+1320. mean training reward:   0.76 mean loss: -8.6726
+1330. mean training reward:   0.74 mean loss: -8.5158
+1340. mean training reward:   0.75 mean loss: -8.7551
+1350. mean training reward:   0.75 mean loss: -8.6813
+1360. mean training reward:   0.73 mean loss: -8.4558
+1370. mean training reward:   0.78 mean loss: -9.1485
+1380. mean training reward:   0.79 mean loss: -9.2169
+1390. mean training reward:   0.79 mean loss: -9.2529
+1400. mean training reward:   0.79 mean loss: -9.1978
+1410. mean training reward:   0.75 mean loss: -8.6297
+1420. mean training reward:   0.79 mean loss: -9.2900
+1430. mean training reward:   0.79 mean loss: -9.1599
+1440. mean training reward:   0.79 mean loss: -9.2587
+1450. mean training reward:   0.79 mean loss: -9.1463
+1460. mean training reward:   0.78 mean loss: -9.0796
+1470. mean training reward:   0.78 mean loss: -9.1415
+1480. mean training reward:   0.78 mean loss: -9.1399
+1490. mean training reward:   0.79 mean loss: -9.2149
+1500. mean training reward:   0.77 mean loss: -8.9069
+1510. mean training reward:   0.78 mean loss: -9.0480
+1520. mean training reward:   0.77 mean loss: -8.9565
+1530. mean training reward:   0.76 mean loss: -8.8565
+1540. mean training reward:   0.77 mean loss: -9.0210
+1550. mean training reward:   0.76 mean loss: -8.8304
+1560. mean training reward:   0.75 mean loss: -8.7014
+1570. mean training reward:   0.76 mean loss: -8.9044
+1580. mean training reward:   0.77 mean loss: -8.9659
+1590. mean training reward:   0.77 mean loss: -8.9634
+1600. mean training reward:   0.78 mean loss: -9.0700
+1610. mean training reward:   0.77 mean loss: -8.9786
+1620. mean training reward:   0.76 mean loss: -8.8636
+1630. mean training reward:   0.77 mean loss: -8.9645
+1640. mean training reward:   0.78 mean loss: -9.1376
+1650. mean training reward:   0.77 mean loss: -8.9121
+1660. mean training reward:   0.78 mean loss: -9.0925
+1670. mean training reward:   0.78 mean loss: -9.0956
+1680. mean training reward:   0.79 mean loss: -9.0753
+1690. mean training reward:   0.78 mean loss: -9.1010
+1700. mean training reward:   0.78 mean loss: -9.0057
+1710. mean training reward:   0.77 mean loss: -9.0064
+1720. mean training reward:   0.76 mean loss: -8.7721
+1730. mean training reward:   0.77 mean loss: -8.8552
+1740. mean training reward:   0.70 mean loss: -8.0086
+1750. mean training reward:   0.72 mean loss: -8.3253
+1760. mean training reward:   0.67 mean loss: -7.7336
+1770. mean training reward:   0.71 mean loss: -8.1782
+1780. mean training reward:   0.74 mean loss: -8.6037
+1790. mean training reward:   0.71 mean loss: -8.1983
+1800. mean training reward:   0.74 mean loss: -8.5431
+1810. mean training reward:   0.75 mean loss: -8.8400
+1820. mean training reward:   0.74 mean loss: -8.5582
+1830. mean training reward:   0.76 mean loss: -8.7530
+1840. mean training reward:   0.73 mean loss: -8.4682
+1850. mean training reward:   0.78 mean loss: -9.1168
+1860. mean training reward:   0.79 mean loss: -9.1001
+1870. mean training reward:   0.76 mean loss: -8.8924
+1880. mean training reward:   0.78 mean loss: -8.9965
+1890. mean training reward:   0.78 mean loss: -8.9844
+1900. mean training reward:   0.75 mean loss: -8.6304
+1910. mean training reward:   0.78 mean loss: -9.0409
+1920. mean training reward:   0.78 mean loss: -9.0572
+1930. mean training reward:   0.76 mean loss: -8.8348
+1940. mean training reward:   0.78 mean loss: -9.0070
+1950. mean training reward:   0.78 mean loss: -9.0458
+1960. mean training reward:   0.74 mean loss: -8.5501
+1970. mean training reward:   0.72 mean loss: -8.4158
+1980. mean training reward:   0.74 mean loss: -8.6321
+1990. mean training reward:   0.74 mean loss: -8.5919
+2000. mean training reward:   0.77 mean loss: -9.0510
+2010. mean training reward:   0.75 mean loss: -8.8379
+2020. mean training reward:   0.78 mean loss: -9.0759
+2030. mean training reward:   0.77 mean loss: -8.9596
+2040. mean training reward:   0.78 mean loss: -9.0555
+2050. mean training reward:   0.76 mean loss: -8.7875
+2060. mean training reward:   0.78 mean loss: -9.0687
+2070. mean training reward:   0.76 mean loss: -8.8387
+2080. mean training reward:   0.78 mean loss: -9.0457
+2090. mean training reward:   0.78 mean loss: -9.0442
+2100. mean training reward:   0.78 mean loss: -9.0643
+2110. mean training reward:   0.78 mean loss: -9.1431
+2120. mean training reward:   0.79 mean loss: -9.2031
+2130. mean training reward:   0.78 mean loss: -9.0859
+2140. mean training reward:   0.78 mean loss: -9.0270
+2150. mean training reward:   0.79 mean loss: -9.1820
+2160. mean training reward:   0.78 mean loss: -8.9840
+2170. mean training reward:   0.78 mean loss: -9.1129
+2180. mean training reward:   0.78 mean loss: -9.0099
+2190. mean training reward:   0.76 mean loss: -8.7534
+2200. mean training reward:   0.76 mean loss: -8.8610
+2210. mean training reward:   0.74 mean loss: -8.5102
+2220. mean training reward:   0.77 mean loss: -8.8945
+2230. mean training reward:   0.78 mean loss: -9.1177
+2240. mean training reward:   0.77 mean loss: -8.9633
+2250. mean training reward:   0.78 mean loss: -9.0389
+2260. mean training reward:   0.76 mean loss: -8.9181
+2270. mean training reward:   0.74 mean loss: -8.5644
+2280. mean training reward:   0.75 mean loss: -8.7968
+2290. mean training reward:   0.77 mean loss: -9.0784
+2300. mean training reward:   0.77 mean loss: -8.9136
+2310. mean training reward:   0.77 mean loss: -8.9389
+2320. mean training reward:   0.76 mean loss: -8.9231
+2330. mean training reward:   0.78 mean loss: -9.0291
+2340. mean training reward:   0.78 mean loss: -9.0795
+2350. mean training reward:   0.78 mean loss: -9.0600
+2360. mean training reward:   0.77 mean loss: -8.9967
+2370. mean training reward:   0.78 mean loss: -9.1788
+2380. mean training reward:   0.78 mean loss: -9.1776
+2390. mean training reward:   0.77 mean loss: -9.0355
+2400. mean training reward:   0.78 mean loss: -9.0343
+2410. mean training reward:   0.78 mean loss: -8.9998
+2420. mean training reward:   0.75 mean loss: -8.6422
+2430. mean training reward:   0.77 mean loss: -8.8975
+2440. mean training reward:   0.77 mean loss: -8.9460
+2450. mean training reward:   0.76 mean loss: -8.7784
+2460. mean training reward:   0.77 mean loss: -8.8352
+2470. mean training reward:   0.77 mean loss: -8.9768
+2480. mean training reward:   0.78 mean loss: -8.9512
+2490. mean training reward:   0.79 mean loss: -9.1048
+2500. mean training reward:   0.75 mean loss: -8.6320
+2510. mean training reward:   0.78 mean loss: -9.0947
+2520. mean training reward:   0.79 mean loss: -9.2734
+2530. mean training reward:   0.79 mean loss: -9.1687
+2540. mean training reward:   0.78 mean loss: -9.0641
+2550. mean training reward:   0.78 mean loss: -9.0606
+2560. mean training reward:   0.79 mean loss: -9.1205
+2570. mean training reward:   0.79 mean loss: -9.1840
+2580. mean training reward:   0.78 mean loss: -9.0079
+2590. mean training reward:   0.78 mean loss: -9.0372
+2600. mean training reward:   0.78 mean loss: -8.9915
+2610. mean training reward:   0.78 mean loss: -9.0412
+2620. mean training reward:   0.77 mean loss: -9.0086
+2630. mean training reward:   0.78 mean loss: -8.9849
+2640. mean training reward:   0.78 mean loss: -8.9501
+2650. mean training reward:   0.79 mean loss: -9.1259
+2660. mean training reward:   0.79 mean loss: -9.0356
+2670. mean training reward:   0.78 mean loss: -9.0893
+2680. mean training reward:   0.78 mean loss: -9.0635
+2690. mean training reward:   0.78 mean loss: -9.0763
+2700. mean training reward:   0.78 mean loss: -9.0570
+2710. mean training reward:   0.77 mean loss: -9.0624
+2720. mean training reward:   0.72 mean loss: -8.3633
+2730. mean training reward:   0.75 mean loss: -8.6607
+2740. mean training reward:   0.76 mean loss: -8.7669
+2750. mean training reward:   0.78 mean loss: -8.9933
+2760. mean training reward:   0.77 mean loss: -8.9453
+2770. mean training reward:   0.76 mean loss: -8.8107
+2780. mean training reward:   0.78 mean loss: -9.0934
+2790. mean training reward:   0.78 mean loss: -9.0426
+2800. mean training reward:   0.79 mean loss: -9.1765
+2810. mean training reward:   0.77 mean loss: -8.9571
+2820. mean training reward:   0.77 mean loss: -8.9962
+2830. mean training reward:   0.76 mean loss: -8.8768
+2840. mean training reward:   0.76 mean loss: -8.8269
+2850. mean training reward:   0.77 mean loss: -8.9409
+2860. mean training reward:   0.78 mean loss: -9.0961
+2870. mean training reward:   0.78 mean loss: -9.0353
+2880. mean training reward:   0.79 mean loss: -9.1531
+2890. mean training reward:   0.79 mean loss: -9.2034
+2900. mean training reward:   0.78 mean loss: -9.0347
+2910. mean training reward:   0.78 mean loss: -9.1215
+2920. mean training reward:   0.78 mean loss: -9.1168
+2930. mean training reward:   0.79 mean loss: -9.1917
+2940. mean training reward:   0.78 mean loss: -9.1522
+2950. mean training reward:   0.78 mean loss: -9.0634
+2960. mean training reward:   0.78 mean loss: -9.1167
+2970. mean training reward:   0.78 mean loss: -9.1456
+2980. mean training reward:   0.79 mean loss: -9.0380
+2990. mean training reward:   0.78 mean loss: -9.1660
+3000. mean training reward:   0.79 mean loss: -9.2009
+3010. mean training reward:   0.78 mean loss: -9.0313
+3020. mean training reward:   0.78 mean loss: -9.0234
+3030. mean training reward:   0.78 mean loss: -8.9829
+3040. mean training reward:   0.76 mean loss: -8.9261
+3050. mean training reward:   0.79 mean loss: -9.2191
+3060. mean training reward:   0.79 mean loss: -9.1870
+3070. mean training reward:   0.79 mean loss: -9.2322
+3080. mean training reward:   0.79 mean loss: -9.2263
+3090. mean training reward:   0.78 mean loss: -9.0785
+3100. mean training reward:   0.79 mean loss: -9.1156
+3110. mean training reward:   0.78 mean loss: -9.0728
+3120. mean training reward:   0.78 mean loss: -9.0388
+3130. mean training reward:   0.79 mean loss: -9.2088
+3140. mean training reward:   0.78 mean loss: -9.0324
+3150. mean training reward:   0.79 mean loss: -9.1255
+3160. mean training reward:   0.79 mean loss: -9.1416
+3170. mean training reward:   0.78 mean loss: -9.0780
+3180. mean training reward:   0.78 mean loss: -9.1147
+3190. mean training reward:   0.79 mean loss: -9.1538
+3200. mean training reward:   0.78 mean loss: -9.0292
+3210. mean training reward:   0.78 mean loss: -9.0791
+3220. mean training reward:   0.75 mean loss: -8.7525
+3230. mean training reward:   0.76 mean loss: -8.7773
+3240. mean training reward:   0.77 mean loss: -9.0326
+3250. mean training reward:   0.78 mean loss: -9.1691
+3260. mean training reward:   0.78 mean loss: -9.0881
+3270. mean training reward:   0.78 mean loss: -8.9846
+3280. mean training reward:   0.79 mean loss: -9.2970
+3290. mean training reward:   0.78 mean loss: -9.0931
+3300. mean training reward:   0.79 mean loss: -9.0649
+3310. mean training reward:   0.77 mean loss: -8.9148
+3320. mean training reward:   0.78 mean loss: -9.0925
+3330. mean training reward:   0.78 mean loss: -9.0993
+3340. mean training reward:   0.78 mean loss: -9.0792
+3350. mean training reward:   0.78 mean loss: -9.0749
+3360. mean training reward:   0.78 mean loss: -9.0532
+3370. mean training reward:   0.77 mean loss: -8.9191
+3380. mean training reward:   0.77 mean loss: -8.9567
+3390. mean training reward:   0.78 mean loss: -9.1117
+3400. mean training reward:   0.78 mean loss: -9.1613
+3410. mean training reward:   0.79 mean loss: -9.1979
+3420. mean training reward:   0.78 mean loss: -9.0027
+3430. mean training reward:   0.78 mean loss: -9.1125
+3440. mean training reward:   0.79 mean loss: -9.1745
+3450. mean training reward:   0.79 mean loss: -9.2408
+3460. mean training reward:   0.79 mean loss: -9.2633
+3470. mean training reward:   0.79 mean loss: -9.0679
+3480. mean training reward:   0.78 mean loss: -9.1541
+3490. mean training reward:   0.78 mean loss: -9.0244
+3500. mean training reward:   0.78 mean loss: -9.1490
+3510. mean training reward:   0.78 mean loss: -9.0449
+3520. mean training reward:   0.78 mean loss: -9.1238
+3530. mean training reward:   0.78 mean loss: -9.1065
+3540. mean training reward:   0.79 mean loss: -9.1072
+3550. mean training reward:   0.78 mean loss: -9.0521
+3560. mean training reward:   0.78 mean loss: -9.0347
+3570. mean training reward:   0.78 mean loss: -9.0698
+3580. mean training reward:   0.78 mean loss: -9.1758
+3590. mean training reward:   0.78 mean loss: -9.1664
+3600. mean training reward:   0.78 mean loss: -9.0156
+3610. mean training reward:   0.78 mean loss: -9.0308
+3620. mean training reward:   0.79 mean loss: -9.1655
+3630. mean training reward:   0.78 mean loss: -9.1546
+3640. mean training reward:   0.79 mean loss: -9.2188
+3650. mean training reward:   0.76 mean loss: -8.8463
+3660. mean training reward:   0.77 mean loss: -9.0533
+3670. mean training reward:   0.78 mean loss: -9.1158
+3680. mean training reward:   0.77 mean loss: -8.9301
+3690. mean training reward:   0.79 mean loss: -9.1003
+3700. mean training reward:   0.79 mean loss: -9.2058
+3710. mean training reward:   0.79 mean loss: -9.1171
+3720. mean training reward:   0.78 mean loss: -9.0573
+3730. mean training reward:   0.78 mean loss: -9.1112
+3740. mean training reward:   0.78 mean loss: -9.1287
+3750. mean training reward:   0.79 mean loss: -9.2024
+3760. mean training reward:   0.79 mean loss: -9.1718
+3770. mean training reward:   0.79 mean loss: -9.1891
+3780. mean training reward:   0.78 mean loss: -9.1528
+3790. mean training reward:   0.78 mean loss: -9.0418
+3800. mean training reward:   0.78 mean loss: -9.0083
+3810. mean training reward:   0.77 mean loss: -8.9777
+3820. mean training reward:   0.76 mean loss: -8.7942
+3830. mean training reward:   0.78 mean loss: -8.9570
+3840. mean training reward:   0.77 mean loss: -8.9661
+3850. mean training reward:   0.78 mean loss: -9.0699
+3860. mean training reward:   0.78 mean loss: -8.9949
+3870. mean training reward:   0.78 mean loss: -9.0604
+3880. mean training reward:   0.78 mean loss: -9.1002
+3890. mean training reward:   0.76 mean loss: -8.8592
+3900. mean training reward:   0.77 mean loss: -8.9132
+3910. mean training reward:   0.75 mean loss: -8.6681
+3920. mean training reward:   0.76 mean loss: -8.7497
+3930. mean training reward:   0.77 mean loss: -8.9275
+3940. mean training reward:   0.78 mean loss: -9.1323
+3950. mean training reward:   0.76 mean loss: -8.7967
+3960. mean training reward:   0.78 mean loss: -9.1397
+3970. mean training reward:   0.76 mean loss: -8.7684
+3980. mean training reward:   0.75 mean loss: -8.7382
+3990. mean training reward:   0.77 mean loss: -8.9204
+4000. mean training reward:   0.78 mean loss: -9.1180
+4010. mean training reward:   0.78 mean loss: -9.0685
+4020. mean training reward:   0.77 mean loss: -9.0000
+4030. mean training reward:   0.77 mean loss: -8.9591
+4040. mean training reward:   0.78 mean loss: -9.0429
+4050. mean training reward:   0.78 mean loss: -9.0419
+4060. mean training reward:   0.78 mean loss: -9.1014
+4070. mean training reward:   0.78 mean loss: -9.1097
+4080. mean training reward:   0.78 mean loss: -9.1441
+4090. mean training reward:   0.77 mean loss: -9.0227
+4100. mean training reward:   0.78 mean loss: -9.1027
+4110. mean training reward:   0.78 mean loss: -9.0118
+4120. mean training reward:   0.78 mean loss: -9.0765
+4130. mean training reward:   0.78 mean loss: -9.0188
+4140. mean training reward:   0.78 mean loss: -9.1255
+4150. mean training reward:   0.78 mean loss: -9.1261
+4160. mean training reward:   0.78 mean loss: -9.0345
+4170. mean training reward:   0.78 mean loss: -9.0956
+4180. mean training reward:   0.78 mean loss: -9.0809
+4190. mean training reward:   0.78 mean loss: -9.1215
+4200. mean training reward:   0.79 mean loss: -9.1079
+4210. mean training reward:   0.78 mean loss: -9.0768
+4220. mean training reward:   0.78 mean loss: -9.1345
+4230. mean training reward:   0.78 mean loss: -9.1076
+4240. mean training reward:   0.78 mean loss: -9.0960
+4250. mean training reward:   0.78 mean loss: -9.1043
+4260. mean training reward:   0.78 mean loss: -9.1542
+4270. mean training reward:   0.77 mean loss: -8.9800
+4280. mean training reward:   0.78 mean loss: -8.9287
+4290. mean training reward:   0.77 mean loss: -8.9484
+4300. mean training reward:   0.78 mean loss: -9.0908
+4310. mean training reward:   0.78 mean loss: -9.1584
+4320. mean training reward:   0.78 mean loss: -9.1914
+4330. mean training reward:   0.78 mean loss: -9.1403
+4340. mean training reward:   0.78 mean loss: -9.2109
+4350. mean training reward:   0.78 mean loss: -9.0105
+4360. mean training reward:   0.79 mean loss: -9.1565
+4370. mean training reward:   0.78 mean loss: -9.0640
+4380. mean training reward:   0.78 mean loss: -9.0687
+4390. mean training reward:   0.78 mean loss: -8.9668
+4400. mean training reward:   0.78 mean loss: -9.0397
+4410. mean training reward:   0.78 mean loss: -9.0976
+4420. mean training reward:   0.78 mean loss: -9.1480
+4430. mean training reward:   0.79 mean loss: -9.2227
+4440. mean training reward:   0.78 mean loss: -9.1791
+4450. mean training reward:   0.78 mean loss: -9.0967
+4460. mean training reward:   0.78 mean loss: -9.0658
+4470. mean training reward:   0.78 mean loss: -9.0975
+4480. mean training reward:   0.78 mean loss: -9.0511
+4490. mean training reward:   0.79 mean loss: -9.1922
+4500. mean training reward:   0.79 mean loss: -9.1433
+4510. mean training reward:   0.79 mean loss: -9.1578
+4520. mean training reward:   0.77 mean loss: -9.0016
+4530. mean training reward:   0.77 mean loss: -8.9645
+4540. mean training reward:   0.75 mean loss: -8.7508
+4550. mean training reward:   0.76 mean loss: -8.8536
+4560. mean training reward:   0.78 mean loss: -9.0718
+4570. mean training reward:   0.78 mean loss: -9.0084
+4580. mean training reward:   0.78 mean loss: -9.1120
+4590. mean training reward:   0.77 mean loss: -9.0543
+4600. mean training reward:   0.78 mean loss: -9.0162
+4610. mean training reward:   0.78 mean loss: -9.1093
+4620. mean training reward:   0.78 mean loss: -9.1050
+4630. mean training reward:   0.77 mean loss: -9.0192
+4640. mean training reward:   0.78 mean loss: -9.1060
+4650. mean training reward:   0.78 mean loss: -9.0962
+4660. mean training reward:   0.78 mean loss: -9.2000
+4670. mean training reward:   0.78 mean loss: -9.0777
+4680. mean training reward:   0.77 mean loss: -9.0020
+4690. mean training reward:   0.78 mean loss: -9.0065
+4700. mean training reward:   0.78 mean loss: -9.0156
+4710. mean training reward:   0.78 mean loss: -9.0875
+4720. mean training reward:   0.78 mean loss: -9.0034
+4730. mean training reward:   0.78 mean loss: -9.1079
+4740. mean training reward:   0.78 mean loss: -9.1089
+4750. mean training reward:   0.78 mean loss: -9.0547
+4760. mean training reward:   0.77 mean loss: -8.9670
+4770. mean training reward:   0.77 mean loss: -8.9304
+4780. mean training reward:   0.78 mean loss: -9.0945
+4790. mean training reward:   0.78 mean loss: -9.1269
+4800. mean training reward:   0.77 mean loss: -8.9109
+4810. mean training reward:   0.78 mean loss: -9.0669
+4820. mean training reward:   0.78 mean loss: -8.9763
+4830. mean training reward:   0.78 mean loss: -9.1237
+4840. mean training reward:   0.78 mean loss: -9.0279
+4850. mean training reward:   0.78 mean loss: -9.1162
+4860. mean training reward:   0.78 mean loss: -8.9901
+4870. mean training reward:   0.77 mean loss: -8.9796
+4880. mean training reward:   0.77 mean loss: -8.9078
+4890. mean training reward:   0.77 mean loss: -8.9451
+4900. mean training reward:   0.77 mean loss: -8.8640
+4910. mean training reward:   0.76 mean loss: -8.7648
+4920. mean training reward:   0.78 mean loss: -8.9646
+4930. mean training reward:   0.78 mean loss: -8.9998
+4940. mean training reward:   0.78 mean loss: -9.0621
+4950. mean training reward:   0.77 mean loss: -8.9644
+4960. mean training reward:   0.78 mean loss: -9.0724
+4970. mean training reward:   0.78 mean loss: -9.0496
+4980. mean training reward:   0.78 mean loss: -9.0954
+4990. mean training reward:   0.77 mean loss: -8.9209
+5000. mean training reward:   0.78 mean loss: -9.1703
