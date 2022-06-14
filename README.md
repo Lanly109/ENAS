@@ -1,5 +1,7 @@
 # AutoML
 
+LabReport: [Deep Reinforcement Learning for ENAS](https://blog.lanly.vip/article/12)
+
 Deep Reinforcement Learning for Efficient Neural Architecture Search (ENAS) in PyTorch, i.e., AutoML. Code based on the paper [https://arxiv.org/abs/1802.03268](https://arxiv.org/abs/1802.03268) and project [https://github.com/RualPerez/AutoML](https://github.com/RualPerez/AutoML)
 
 How to run:
